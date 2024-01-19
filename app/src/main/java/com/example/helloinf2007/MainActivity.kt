@@ -33,7 +33,7 @@ class MainActivity : ComponentActivity() {
                 {
                     Column {// Prevents overlapping
                     Greeting("INF2007")
-                    From("Michael")
+                    From("Elon Musk")
                     }
                 }
             }
